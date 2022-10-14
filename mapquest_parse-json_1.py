@@ -47,3 +47,7 @@ while True:
 
 #Hello
 #This is a comment
+# Suggestion: Determine traffic density
+# Suggestion: Add Road incidents
+# Suggestion: Suggest alternate routes
+#
