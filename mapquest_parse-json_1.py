@@ -1,4 +1,3 @@
-#Replace "your_api_key" with your MapQuest API key
 
 import urllib.parse
 import requests
@@ -49,9 +48,8 @@ while True:
         continue;
     else:
         break;
-#Hello
-#This is a comment
+
 # Suggestion: Determine traffic density
 # Suggestion: Add Road incidents
-# Suggestion: Suggest alternate routes
-#
+# Suggestion: Suggest possible alternate routes
+
